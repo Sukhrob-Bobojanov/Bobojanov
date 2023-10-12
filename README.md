@@ -1,4 +1,4 @@
-<img align="right" alt="coding" with="400" src="![image](https://github.com/Sukhrob-Bobojanov/Bobojanov/assets/77965497/32bb1554-6066-4490-8d09-c49575d213f7)"
+<img align="right" alt="coding" with="200" src="![image](https://github.com/Sukhrob-Bobojanov/Bobojanov/assets/77965497/32bb1554-6066-4490-8d09-c49575d213f7)"
 
 # Hi there, I'm Sukhrob Bobojanov 👋
 
