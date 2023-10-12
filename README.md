@@ -1,11 +1,10 @@
-<img align="right" alt="coding" with="200" src="![image](https://github.com/Sukhrob-Bobojanov/Bobojanov/assets/77965497/32bb1554-6066-4490-8d09-c49575d213f7)"
 
 # Hi there, I'm Sukhrob Bobojanov 👋
 
 > A ML/DL researcher/engineer building awesome AI/Computer Vision stuff using Python, OpenCV, PyTorch.
 <br/><br/>
 
-
+src="![image](https://github.com/Sukhrob-Bobojanov/Bobojanov/assets/77965497/32bb1554-6066-4490-8d09-c49575d213f7)"
 <h1> 👨🏻‍💻 Me now </h1>
 
 - 🤔 &nbsp; Exploring new technologies and developing Deep Learning modules related to Computer Vision tasks.
