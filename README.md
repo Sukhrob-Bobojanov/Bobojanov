@@ -1,9 +1,10 @@
-<a href="https://github.com/salohiddin22/salohiddin22"><img src="vision.jpeg" align="right" height="200"/></a>
+![image](https://github.com/Sukhrob-Bobojanov/Bobojanov/assets/77965497/668f93e8-ef82-4900-8111-99f6683c23da)<a href="https://github.com/salohiddin22/salohiddin22"><img src="vision.jpeg" align="right" height="200"/></a>
 
 # Hi there, I'm Sukhrob Bobojanov 👋
 
 > A ML/DL researcher/engineer building awesome AI/Computer Vision stuff using Python, OpenCV, PyTorch.
 <br/><br/>
+<img align="right" alt="coding" with="400" src="![image](https://github.com/Sukhrob-Bobojanov/Bobojanov/assets/77965497/32bb1554-6066-4490-8d09-c49575d213f7)"
 
 <h1> 👨🏻‍💻 Me now </h1>
 
