@@ -32,4 +32,10 @@
 <a />
 <div>
  <br/>
+[![Salohiddin's Streak](https://github-readme-streak-stats.herokuapp.com?user=salohiddin22&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
+[![](https://komarev.com/ghpvc/?username=Sukhrob-Bobojanov&color=orange&label=Profile%20Views)](https://github.com/wahid-d/wahid-d)
+[![](https://img.shields.io/github/followers/Sukhrob-Bobojanov?label=GitHub%20Followers)](https://github.com/wahid-d)
+
+<!--
+**Sukhrob-Bobojanov/Bobojanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
