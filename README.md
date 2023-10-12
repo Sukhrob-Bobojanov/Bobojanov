@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sukhrob Bobojanov 👋
 
-> A Deep Learning researcher/engineer building awesome AI/Computer Vision stuff using Python, OpenCV, PyTorch.
+> A ML/DL researcher/engineer building awesome AI/Computer Vision stuff using Python, OpenCV, PyTorch.
 <br/><br/>
 
 <h1> 👨🏻‍💻 Me now </h1>
